@@ -1,4 +1,4 @@
-#2. Balanced Bracket#
+## 2. Balanced Bracket
 
 Complexity : Low
 

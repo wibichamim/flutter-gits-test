@@ -1,4 +1,10 @@
+## 1. Weighted Strings
+
+![resultt](./ss/1.png)
+
 ## 2. Balanced Bracket
+
+![resultt](./ss/2.png)
 
 Complexity : Low
 
@@ -9,3 +15,7 @@ Complexity : Low
 - If they match, we continue. If not, the string is unbalanced.
 
 - Finally, if the stack is empty, it means all the brackets were matched correctly, indicating a balanced string.
+
+## 3. Highest Palindrome
+
+![resultt](./ss/3.png)
